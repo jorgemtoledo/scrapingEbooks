@@ -15,9 +15,9 @@
 
 ## Links - Referências
 
-https://41x3n.hashnode.dev/scraping-a-website-and-downloading-files-with-nodejs-using-axios-and-cheerio-cjzxoamre00040ns1hv7xr85d
-https://futurestud.io/tutorials/download-files-images-with-axios-in-node-js
+- [Site - 1](https://41x3n.hashnode.dev/scraping-a-website-and-downloading-files-with-nodejs-using-axios-and-cheerio-cjzxoamre00040ns1hv7xr85d)
 
+- [Site - 2](https://futurestud.io/tutorials/download-files-images-with-axios-in-node-js)
 ------------
 
 **Jorge Toledo** :rocket:
